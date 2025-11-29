@@ -1,6 +1,7 @@
 # Strategy Grading using T-Tests
 
-A Streamlit application that compares Buy, Sell, and Hold strategies on stock data using statistical t-tests.
+A Streamlit application that compares Buy, Sell, and Hold strategies on stock data using statistical t-tests after scrapping and cleaning stock data received through Yahoo finance api thought Datascience & Machine Learning methods
+
 
 ## Features
 
